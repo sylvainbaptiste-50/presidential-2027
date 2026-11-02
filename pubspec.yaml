@@ -17,7 +17,7 @@ dev_dependencies:
 
 flutter_icons:
   android: true
-  ios: true
+  ios: false
   image_path: "assets/logo.png"
   adaptive_icon_background: "#000000" # Fond noir pour correspondre au logo
   adaptive_icon_foreground: "assets/logo.png"
