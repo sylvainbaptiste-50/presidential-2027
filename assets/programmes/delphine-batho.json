@@ -1,13 +1,19 @@
 {
   "id": "delphine-batho",
   "nom": "Delphine Batho",
-  "source_url": "https://generationecologie.fr",
+  "source_url": "",
   "propositions": [
     {
-      "thematique": "Institutions & Démocratie",
-      "titre": "Lancement de la campagne",
-      "detail": "Les propositions détaillées de Delphine Batho pour 2027 sont en cours de structuration.",
-      "source_texte": "Equipe de campagne"
+      "thematique": "Écologie & Énergie",
+      "titre": "Décroissance matérielle assumée",
+      "detail": "Sortie du mythe de la croissance infinie, instauration de quotas carbone individuels.",
+      "source_texte": "Génération Écologie"
+    },
+    {
+      "thematique": "Institutions",
+      "titre": "Droit de la nature",
+      "detail": "Inscription des droits du vivant et des limites planétaires dans la Constitution.",
+      "source_texte": "Génération Écologie"
     }
   ]
 }

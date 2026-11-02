@@ -1,13 +1,19 @@
 {
   "id": "florian-philippot",
   "nom": "Florian Philippot",
-  "source_url": "https://les-patriotes.fr",
+  "source_url": "",
   "propositions": [
     {
-      "thematique": "Institutions & Démocratie",
-      "titre": "Lancement de la campagne",
-      "detail": "Les propositions détaillées de Florian Philippot pour 2027 sont en cours de structuration.",
-      "source_texte": "Equipe de campagne"
+      "thematique": "Europe",
+      "titre": "Frexit immédiat",
+      "detail": "Sortie unilatérale de l'Union européenne, de l'euro, et de l'OTAN par référendum.",
+      "source_texte": "Les Patriotes"
+    },
+    {
+      "thematique": "Santé & Libertés",
+      "titre": "Interdiction des pass sanitaires",
+      "detail": "Inscription dans la Constitution de l'interdiction de toute ségrégation vaccinale ou numérique.",
+      "source_texte": "Les Patriotes"
     }
   ]
 }

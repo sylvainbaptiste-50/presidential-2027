@@ -1,19 +1,25 @@
 {
   "id": "nicolas-dupont-aignan",
-  "nom": "Nicolas Dupont-Aignan",
-  "source_url": "https://debout-la-france.fr",
+  "nom": "Nicolas Dupont Aignan",
+  "source_url": "",
   "propositions": [
     {
       "thematique": "Europe & International",
-      "titre": "Souveraineté nationale et primauté du droit français",
-      "detail": "Rétablir la supériorité de la Constitution française sur les directives européennes.",
+      "titre": "Souveraineté nationale",
+      "detail": "Rétablir la supériorité de la Constitution française sur les directives européennes et quitter le commandement intégré de l'OTAN.",
       "source_texte": "DLF"
     },
     {
       "thematique": "Économie & Fiscalité",
       "titre": "Exonération massive des droits de succession",
       "detail": "Exonérer de droits de succession la transmission d'entreprises sur 90% de leur valeur.",
-      "source_texte": "Fondation IFRAP / DLF"
+      "source_texte": "DLF"
+    },
+    {
+      "thematique": "Santé",
+      "titre": "Réouverture des lits d'hôpitaux",
+      "detail": "Plan d'urgence pour l'hôpital public avec suppression des ARS au profit de directions locales.",
+      "source_texte": "DLF"
     }
   ]
 }

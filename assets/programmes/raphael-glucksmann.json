@@ -1,30 +1,24 @@
 {
   "id": "raphael-glucksmann",
-  "nom": "Raphaël Glucksmann",
-  "source_url": "https://place-publique.eu",
+  "nom": "Raphael Glucksmann",
+  "source_url": "",
   "propositions": [
     {
       "thematique": "Économie & Fiscalité",
-      "titre": "Taxation des méga-héritages et impôt sur la fortune",
+      "titre": "Taxation des méga-héritages",
       "detail": "Taxer les héritages de plus de 2 millions d'euros pour baisser la CSG et instaurer la taxe Zucman.",
-      "source_texte": "Place publique / IFRAP"
+      "source_texte": "Place publique"
     },
     {
       "thematique": "Europe & International",
-      "titre": "Fédéralisme européen et souveraineté industrielle",
+      "titre": "Fédéralisme européen",
       "detail": "Soutien massif à l'Ukraine, renforcement de l'Europe de la défense et réindustrialisation verte européenne.",
       "source_texte": "Manifeste PP"
     },
     {
-      "thematique": "Jeunesse & Éducation",
-      "titre": "Capital universel de 50 000 € à 25 ans",
-      "detail": "Dotation de départ pour tous les jeunes, financée par un héritage maximum plafonné.",
-      "source_texte": "Place publique"
-    },
-    {
-      "thematique": "Retraites & Travail",
-      "titre": "Conférence sociale sur la pénibilité",
-      "detail": "Aménagement de l'âge de départ à la retraite en prenant réellement en compte les métiers usants.",
+      "thematique": "Jeunesse",
+      "titre": "Dotation universelle",
+      "detail": "Un capital de départ de 50 000€ pour tous les jeunes à 25 ans, financé par une fiscalité plus juste sur les hauts patrimoines.",
       "source_texte": "Place publique"
     }
   ]

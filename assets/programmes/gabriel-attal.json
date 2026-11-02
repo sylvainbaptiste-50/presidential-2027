@@ -1,13 +1,13 @@
 {
   "id": "gabriel-attal",
   "nom": "Gabriel Attal",
-  "source_url": "https://parti-renaissance.fr",
+  "source_url": "",
   "propositions": [
     {
       "thematique": "Économie & Fiscalité",
       "titre": "Baisse d'impôts pour les classes moyennes",
       "detail": "Réduction de 2 Md€ d'impôts pour les classes moyennes et poursuite de la baisse des impôts de production.",
-      "source_texte": "Renaissance / IFRAP"
+      "source_texte": "Renaissance"
     },
     {
       "thematique": "Retraites & Travail",
@@ -17,33 +17,15 @@
     },
     {
       "thematique": "Jeunesse & Éducation",
-      "titre": "Choc des savoirs et refonte des bourses",
-      "detail": "Poursuite des groupes de niveau et réforme du système Crous pour mieux aider les classes moyennes.",
+      "titre": "Choc des savoirs",
+      "detail": "Poursuite des groupes de niveau, retour de l'autorité à l'école et réforme du système Crous.",
       "source_texte": "Ministère de l'Éducation"
     },
     {
-      "thematique": "Sécurité & Justice",
-      "titre": "Fermeté face à la délinquance des mineurs",
-      "detail": "Atténuation de l'excuse de minorité pour les récidivistes et mise en place de travaux d'intérêt général plus rapides.",
-      "source_texte": "Déclarations 2024-2025"
-    },
-    {
-      "thematique": "Europe & International",
-      "titre": "Souveraineté européenne",
-      "detail": "Renforcer la défense européenne et l'autonomie stratégique tout en maintenant un soutien ferme à l'Ukraine.",
-      "source_texte": "Programme Renaissance"
-    },
-    {
-      "thematique": "Écologie & Énergie",
-      "titre": "Planification et relance nucléaire",
-      "detail": "Construction de nouveaux réacteurs EPR et développement de l'éolien en mer, accompagnés de la planification écologique.",
-      "source_texte": "Gouvernement 2024"
-    },
-    {
-      "thematique": "Institutions & Démocratie",
-      "titre": "Modernisation des services publics",
-      "detail": "Simplification administrative pour les particuliers et les entreprises.",
-      "source_texte": "Loi de simplification"
+      "thematique": "Sécurité",
+      "titre": "Fermeté face aux violences",
+      "detail": "Responsabilisation des parents de délinquants mineurs et comparutions immédiates.",
+      "source_texte": "Déclarations"
     }
   ]
 }

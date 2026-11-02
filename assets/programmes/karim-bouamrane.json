@@ -4,10 +4,16 @@
   "source_url": "",
   "propositions": [
     {
-      "thematique": "Institutions & Démocratie",
-      "titre": "Lancement de la campagne",
-      "detail": "Les propositions détaillées de Karim Bouamrane pour 2027 sont en cours de structuration.",
-      "source_texte": "Equipe de campagne"
+      "thematique": "Jeunesse & Éducation",
+      "titre": "Égalité républicaine dans les quartiers",
+      "detail": "Plan massif pour la mixité scolaire et la rénovation des infrastructures dans les quartiers populaires.",
+      "source_texte": "Déclarations"
+    },
+    {
+      "thematique": "Sécurité & Justice",
+      "titre": "L'ordre républicain juste",
+      "detail": "Associer prévention, police de proximité et sanctions rapides sans stigmatisation.",
+      "source_texte": "Interventions"
     }
   ]
 }

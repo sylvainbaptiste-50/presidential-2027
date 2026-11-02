@@ -1,18 +1,24 @@
 {
   "id": "nathalie-arthaud",
   "nom": "Nathalie Arthaud",
-  "source_url": "https://lutte-ouvriere.org",
+  "source_url": "",
   "propositions": [
     {
       "thematique": "Retraites & Travail",
       "titre": "Retraite à 60 ans et interdiction des licenciements",
-      "detail": "Départ à 60 ans pour tous sans décote et interdiction stricte des licenciements.",
+      "detail": "Départ à 60 ans avec un niveau de vie décent garanti. Interdiction de tout licenciement sous peine de réquisition.",
       "source_texte": "Lutte Ouvrière"
     },
     {
       "thematique": "Économie & Fiscalité",
       "titre": "Levée du secret des affaires",
-      "detail": "Transparence totale sur la comptabilité des grandes entreprises et indexation des salaires sur l'inflation.",
+      "detail": "Les travailleurs doivent pouvoir contrôler les comptes des entreprises. Expropriation des grands groupes capitalistes.",
+      "source_texte": "Lutte Ouvrière"
+    },
+    {
+      "thematique": "Pouvoir d'achat",
+      "titre": "Indexation totale des salaires",
+      "detail": "Augmentation générale des salaires de 400€ minimum et indexation automatique sur l'inflation.",
       "source_texte": "Lutte Ouvrière"
     }
   ]

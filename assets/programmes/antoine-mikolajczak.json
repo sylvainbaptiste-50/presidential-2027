@@ -1,13 +1,19 @@
 {
   "id": "antoine-mikolajczak",
   "nom": "Antoine Mikolajczak",
-  "source_url": "https://parti-equinoxe.fr",
+  "source_url": "",
   "propositions": [
     {
-      "thematique": "Institutions & Démocratie",
-      "titre": "Lancement de la campagne",
-      "detail": "Les propositions détaillées de Antoine Mikolajczak pour 2027 sont en cours de structuration.",
-      "source_texte": "Equipe de campagne"
+      "thematique": "Écologie & Énergie",
+      "titre": "Transition écologique chiffrée",
+      "detail": "Planification énergétique basée sur la science, maintien de l'énergie nucléaire pilotable associée aux renouvelables.",
+      "source_texte": "Équinoxe"
+    },
+    {
+      "thematique": "Institutions",
+      "titre": "Pragmatisme démocratique",
+      "detail": "Prise de décision politique guidée par les données scientifiques et les limites planétaires.",
+      "source_texte": "Équinoxe"
     }
   ]
 }

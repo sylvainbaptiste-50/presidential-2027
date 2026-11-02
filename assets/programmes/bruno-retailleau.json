@@ -1,0 +1,25 @@
+{
+  "id": "bruno-retailleau",
+  "nom": "Bruno Retailleau",
+  "source_url": "",
+  "propositions": [
+    {
+      "thematique": "Sécurité & Justice",
+      "titre": "Fermeté pénale et retour de l'ordre",
+      "detail": "Peines planchers, exécution des courtes peines, et durcissement des sanctions.",
+      "source_texte": "Les Républicains"
+    },
+    {
+      "thematique": "Immigration",
+      "titre": "Reprise en main migratoire",
+      "detail": "Référendum sur l'immigration, refonte de la Constitution pour contourner la CEDH, et fin de l'AME.",
+      "source_texte": "Déclarations publiques"
+    },
+    {
+      "thematique": "Éducation",
+      "titre": "Restauration du mérite",
+      "detail": "Uniforme à l'école, fin du nivellement par le bas, et autorité renforcée des maîtres.",
+      "source_texte": "LR"
+    }
+  ]
+}

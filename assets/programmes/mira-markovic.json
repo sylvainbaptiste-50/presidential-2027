@@ -1,13 +1,19 @@
 {
   "id": "mira-markovic",
   "nom": "Mira Markovic",
-  "source_url": "https://parti-animaliste.fr",
+  "source_url": "",
   "propositions": [
     {
-      "thematique": "Institutions & Démocratie",
-      "titre": "Lancement de la campagne",
-      "detail": "Les propositions détaillées de Mira Markovic pour 2027 sont en cours de structuration.",
-      "source_texte": "Equipe de campagne"
+      "thematique": "Écologie & Animaux",
+      "titre": "Fin de l'élevage intensif",
+      "detail": "Interdiction progressive des fermes-usines, subventions massives pour la transition vers l'agriculture végétale.",
+      "source_texte": "Parti Animaliste"
+    },
+    {
+      "thematique": "Institutions",
+      "titre": "Secrétariat à la condition animale",
+      "detail": "Création d'un ministère dédié et intégration des droits des animaux dans la Constitution.",
+      "source_texte": "Parti Animaliste"
     }
   ]
 }

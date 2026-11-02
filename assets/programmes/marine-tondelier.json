@@ -1,7 +1,7 @@
 {
   "id": "marine-tondelier",
   "nom": "Marine Tondelier",
-  "source_url": "https://lesecologistes.fr",
+  "source_url": "",
   "propositions": [
     {
       "thematique": "Écologie & Énergie",
@@ -10,16 +10,16 @@
       "source_texte": "Les Écologistes"
     },
     {
-      "thematique": "Jeunesse & Éducation",
+      "thematique": "Jeunesse & Solidarité",
       "titre": "Revenu universel d'émancipation",
       "detail": "Versement d'un revenu de base pour tous les jeunes de 18 à 25 ans au-dessus du seuil de pauvreté.",
       "source_texte": "Livret Écologiste"
     },
     {
-      "thematique": "Retraites & Travail",
-      "titre": "Retraite à 60 ans et trimestres associatifs",
-      "detail": "Retour à l'âge de 60 ans et validation de droits pour les activités associatives et bénévoles.",
-      "source_texte": "Programme Les Écologistes"
+      "thematique": "Santé",
+      "titre": "Lutte contre les déserts médicaux",
+      "detail": "Régulation de l'installation des médecins pour garantir un accès aux soins partout sur le territoire.",
+      "source_texte": "Les Écologistes"
     }
   ]
 }

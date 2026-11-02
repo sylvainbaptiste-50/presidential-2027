@@ -1,36 +1,30 @@
 {
   "id": "edouard-philippe",
-  "nom": "Édouard Philippe",
-  "source_url": "https://horizonsleparti.fr",
+  "nom": "Edouard Philippe",
+  "source_url": "",
   "propositions": [
     {
-      "thematique": "Économie & Fiscalité",
-      "titre": "Réduction de la dette publique et rationalisation",
-      "detail": "Plan de lutte contre les déficits publics en rationalisant les dépenses de l'État.",
-      "source_texte": "Horizons / IFRAP"
+      "thematique": "Économie & Finances",
+      "titre": "Réduction de la dette publique",
+      "detail": "Plan strict de lutte contre les déficits publics en rationalisant les dépenses de l'État.",
+      "source_texte": "Horizons"
     },
     {
       "thematique": "Retraites & Travail",
       "titre": "Maintien de la réforme et allongement possible",
-      "detail": "Conserver l'âge de départ à 64 ans voire l'allonger progressivement à 65 ans pour équilibrer le système.",
+      "detail": "Conserver l'âge de départ à 64 ans voire l'allonger progressivement à 65 ans.",
       "source_texte": "Déclarations publiques Horizons"
     },
     {
       "thematique": "Sécurité & Justice",
-      "titre": "Restauration de l'autorité et justice des mineurs",
+      "titre": "Restauration de l'autorité",
       "detail": "Durcissement des sanctions pour les mineurs récidivistes et refonte de l'ordonnance de 1945.",
       "source_texte": "Propositions sécurité Horizons"
     },
     {
-      "thematique": "Jeunesse & Éducation",
-      "titre": "Développement des filières professionnelles",
-      "detail": "Renforcement massif de l'apprentissage et de l'enseignement professionnel en lien avec les entreprises.",
-      "source_texte": "Horizons Éducation"
-    },
-    {
-      "thematique": "Institutions & Démocratie",
-      "titre": "Renforcement du pouvoir des maires",
-      "detail": "Plus grande décentralisation et renforcement de la capacité d'action pénale des élus locaux.",
+      "thematique": "Institutions",
+      "titre": "Décentralisation massive",
+      "detail": "Transfert de compétences majeures vers les maires, les départements et les régions.",
       "source_texte": "Horizons"
     }
   ]

@@ -1,18 +1,24 @@
 {
   "id": "david-lisnard",
   "nom": "David Lisnard",
-  "source_url": "https://www.unenouvelleenergie.fr",
+  "source_url": "",
   "propositions": [
     {
       "thematique": "Économie & Fiscalité",
       "titre": "Baisse massive de la dépense publique",
-      "detail": "Plan de réduction des dépenses publiques pour désendetter le pays et alléger la fiscalité.",
+      "detail": "Plan de réduction de 200 Md€ des dépenses publiques pour désendetter le pays et alléger la fiscalité.",
       "source_texte": "Nouvelle Énergie"
     },
     {
       "thematique": "Institutions & Démocratie",
       "titre": "Débureaucratisation de l'État",
       "detail": "Suppression des agences d'État redondantes et retour du pouvoir de décision aux maires.",
+      "source_texte": "Nouvelle Énergie"
+    },
+    {
+      "thematique": "Sécurité & Immigration",
+      "titre": "Fermeté totale",
+      "detail": "Reprise en main des frontières, suppression des allocations pour les clandestins et peines planchers.",
       "source_texte": "Nouvelle Énergie"
     }
   ]

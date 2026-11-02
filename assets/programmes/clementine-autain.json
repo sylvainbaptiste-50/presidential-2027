@@ -1,13 +1,19 @@
 {
   "id": "clementine-autain",
-  "nom": "Clémentine Autain",
-  "source_url": "https://lapres.fr",
+  "nom": "Clementine Autain",
+  "source_url": "",
   "propositions": [
     {
       "thematique": "Institutions & Démocratie",
-      "titre": "Lancement de la campagne",
-      "detail": "Les propositions détaillées de Clémentine Autain pour 2027 sont en cours de structuration.",
-      "source_texte": "Equipe de campagne"
+      "titre": "Démocratisation des médias",
+      "detail": "Loi anti-concentration dans les médias pour limiter l'influence des milliardaires sur le débat public.",
+      "source_texte": "L'Après"
+    },
+    {
+      "thematique": "Écologie & Énergie",
+      "titre": "Grand plan de rénovation thermique",
+      "detail": "Rénovation intégrale des passoires thermiques avec un reste à charge zéro pour les ménages les plus modestes.",
+      "source_texte": "L'Après"
     }
   ]
 }

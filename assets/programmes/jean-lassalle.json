@@ -1,13 +1,19 @@
 {
   "id": "jean-lassalle",
   "nom": "Jean Lassalle",
-  "source_url": "https://resistons.fr",
+  "source_url": "",
   "propositions": [
     {
-      "thematique": "Institutions & Démocratie",
-      "titre": "Lancement de la campagne",
-      "detail": "Les propositions détaillées de Jean Lassalle pour 2027 sont en cours de structuration.",
-      "source_texte": "Equipe de campagne"
+      "thematique": "Territoires & Ruralité",
+      "titre": "Grand plan pour les campagnes",
+      "detail": "Maintien des services publics de proximité (postes, gares, hôpitaux) dans les zones rurales.",
+      "source_texte": "Résistons !"
+    },
+    {
+      "thematique": "Institutions",
+      "titre": "Reconnaissance du vote blanc",
+      "detail": "Invalidation de l'élection si le vote blanc est majoritaire.",
+      "source_texte": "Résistons !"
     }
   ]
 }

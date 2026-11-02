@@ -4,10 +4,16 @@
   "source_url": "",
   "propositions": [
     {
-      "thematique": "Institutions & Démocratie",
-      "titre": "Lancement de la campagne",
-      "detail": "Les propositions détaillées de Natacha Polony pour 2027 sont en cours de structuration.",
-      "source_texte": "Equipe de campagne"
+      "thematique": "Économie",
+      "titre": "Protectionnisme assumé",
+      "detail": "Mise en place de barrières douanières écologiques et sociales pour réindustrialiser la France.",
+      "source_texte": "Déclarations"
+    },
+    {
+      "thematique": "Éducation",
+      "titre": "Revalorisation du mérite républicain",
+      "detail": "Retour à la transmission des savoirs fondamentaux, refus du nivellement par le bas.",
+      "source_texte": "Prises de position"
     }
   ]
 }

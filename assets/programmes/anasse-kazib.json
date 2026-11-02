@@ -1,13 +1,19 @@
 {
   "id": "anasse-kazib",
   "nom": "Anasse Kazib",
-  "source_url": "https://revolutionpermanente.fr",
+  "source_url": "",
   "propositions": [
     {
       "thematique": "Institutions & Démocratie",
-      "titre": "Lancement de la campagne",
-      "detail": "Les propositions détaillées de Anasse Kazib pour 2027 sont en cours de structuration.",
-      "source_texte": "Equipe de campagne"
+      "titre": "Gouvernement des travailleurs",
+      "detail": "Destruction des institutions de la Ve République au profit d'une démocratie par les conseils de travailleurs.",
+      "source_texte": "Révolution Permanente"
+    },
+    {
+      "thematique": "Écologie & Énergie",
+      "titre": "Expropriation de l'industrie fossile",
+      "detail": "Nationalisation sous contrôle ouvrier des grands groupes de l'énergie pour imposer une transition rapide.",
+      "source_texte": "Révolution Permanente"
     }
   ]
 }

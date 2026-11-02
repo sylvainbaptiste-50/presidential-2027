@@ -1,7 +1,7 @@
 {
   "id": "fabien-roussel",
   "nom": "Fabien Roussel",
-  "source_url": "https://pcf.fr",
+  "source_url": "",
   "propositions": [
     {
       "thematique": "Économie & Fiscalité",
@@ -14,6 +14,12 @@
       "titre": "Mix nucléaire et renouvelable",
       "detail": "Investissement massif dans de nouveaux réacteurs nucléaires combinés aux renouvelables.",
       "source_texte": "Programme PCF"
+    },
+    {
+      "thematique": "Sécurité",
+      "titre": "Une police de proximité forte",
+      "detail": "Recrutement massif de forces de l'ordre pour assurer la sécurité de proximité dans tous les quartiers.",
+      "source_texte": "PCF"
     }
   ]
 }

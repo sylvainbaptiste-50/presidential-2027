@@ -1,13 +1,13 @@
 {
   "id": "marine-le-pen",
   "nom": "Marine Le Pen",
-  "source_url": "https://rassemblementnational.fr",
+  "source_url": "",
   "propositions": [
     {
       "thematique": "Économie & Fiscalité",
-      "titre": "Baisse de la TVA et suppression d'impôts de production",
-      "detail": "Suppression de la TVA sur 100 produits de première nécessité, et suppression de la CFE, C3S et CVAE.",
-      "source_texte": "Programme RN / IFRAP"
+      "titre": "Baisse de la TVA",
+      "detail": "Suppression de la TVA sur 100 produits de première nécessité, et baisse de la TVA sur l'énergie à 5,5%.",
+      "source_texte": "Programme RN"
     },
     {
       "thematique": "Retraites & Travail",
@@ -16,34 +16,16 @@
       "source_texte": "Programme RN"
     },
     {
-      "thematique": "Sécurité & Justice",
-      "titre": "Expulsion des délinquants étrangers",
-      "detail": "Double peine systématique et renvoi dans leur pays d'origine de tout étranger condamné.",
+      "thematique": "Sécurité & Immigration",
+      "titre": "Priorité nationale et suppression du droit du sol",
+      "detail": "Inscription de la priorité nationale dans la Constitution, suppression des aides pour les étrangers et fin de l'AME.",
       "source_texte": "Projet régalien RN"
     },
     {
-      "thematique": "Institutions & Démocratie",
-      "titre": "Priorité nationale et référendum",
-      "detail": "Inscription de la priorité nationale dans la Constitution, suppression du droit du sol et recours au référendum d'initiative citoyenne (RIC).",
-      "source_texte": "Livret Constitution RN"
-    },
-    {
-      "thematique": "Écologie & Énergie",
-      "titre": "Moratoire sur l'éolien et relance du nucléaire",
-      "detail": "Arrêt de la construction de nouvelles éoliennes, démantèlement progressif, et investissement massif dans le nucléaire.",
-      "source_texte": "Projet énergie RN"
-    },
-    {
-      "thematique": "Jeunesse & Éducation",
-      "titre": "Exonération fiscale des moins de 30 ans",
-      "detail": "Suppression de l'impôt sur le revenu pour les actifs de moins de 30 ans afin d'éviter la fuite des cerveaux.",
-      "source_texte": "Programme RN Jeunesse"
-    },
-    {
-      "thematique": "Europe & International",
-      "titre": "L'Europe des Nations",
-      "detail": "Rétablissement de la primauté du droit français sur le droit européen et sortie du marché européen de l'électricité.",
-      "source_texte": "Programme RN Europe"
+      "thematique": "Europe",
+      "titre": "Primauté du droit national",
+      "detail": "Rétablissement de la supériorité de la Constitution française sur les traités européens.",
+      "source_texte": "RN"
     }
   ]
 }
