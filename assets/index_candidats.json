@@ -3,238 +3,245 @@
     "id": "gabriel-attal",
     "nom": "Gabriel Attal",
     "parti": "Renaissance",
-    "statut": "Pressenti",
-    "photo_url": ""
+    "statut": "Déclaré",
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/attal_portrait.png"
   },
   {
     "id": "edouard-philippe",
     "nom": "Édouard Philippe",
     "parti": "Horizons",
     "statut": "Déclaré",
-    "photo_url": ""
-  },
-  {
-    "id": "francois-bayrou",
-    "nom": "François Bayrou",
-    "parti": "MoDem",
-    "statut": "Potentiel",
-    "photo_url": ""
-  },
-  {
-    "id": "jean-castex",
-    "nom": "Jean Castex",
-    "parti": "Indépendant",
-    "statut": "Potentiel",
-    "photo_url": ""
-  },
-  {
-    "id": "laurent-wauquiez",
-    "nom": "Laurent Wauquiez",
-    "parti": "Les Républicains",
-    "statut": "Pressenti",
-    "photo_url": ""
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/philippe_portrait.png"
   },
   {
     "id": "david-lisnard",
     "nom": "David Lisnard",
     "parti": "Nouvelle Énergie",
     "statut": "Déclaré",
-    "photo_url": ""
-  },
-  {
-    "id": "xavier-bertrand",
-    "nom": "Xavier Bertrand",
-    "parti": "Nous France",
-    "statut": "Potentiel",
-    "photo_url": ""
-  },
-  {
-    "id": "dominique-de-villepin",
-    "nom": "Dominique de Villepin",
-    "parti": "La France humaniste",
-    "statut": "Déclaré",
-    "photo_url": ""
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/lisnard_portrait.png"
   },
   {
     "id": "marine-le-pen",
     "nom": "Marine Le Pen",
     "parti": "Rassemblement National",
     "statut": "Déclarée",
-    "photo_url": ""
-  },
-  {
-    "id": "jordan-bardella",
-    "nom": "Jordan Bardella",
-    "parti": "Rassemblement National",
-    "statut": "Potentiel",
-    "photo_url": ""
-  },
-  {
-    "id": "eric-zemmour",
-    "nom": "Éric Zemmour",
-    "parti": "Reconquête",
-    "statut": "Déclaré",
-    "photo_url": ""
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/le-pen_portrait.png"
   },
   {
     "id": "nicolas-dupont-aignan",
     "nom": "Nicolas Dupont-Aignan",
     "parti": "Debout la France",
     "statut": "Déclaré",
-    "photo_url": ""
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/dupont-aignan_portrait.png"
   },
   {
     "id": "florian-philippot",
     "nom": "Florian Philippot",
     "parti": "Les Patriotes",
     "statut": "Déclaré",
-    "photo_url": ""
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/philippot_portrait.png"
   },
   {
     "id": "francois-asselineau",
     "nom": "François Asselineau",
     "parti": "UPR",
     "statut": "Déclaré",
-    "photo_url": ""
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/asselineau_portrait.png"
   },
   {
     "id": "jean-luc-melenchon",
     "nom": "Jean-Luc Mélenchon",
     "parti": "La France Insoumise",
-    "statut": "Pressenti",
-    "photo_url": ""
+    "statut": "Déclaré",
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/melenchon_portrait.png"
   },
   {
     "id": "francois-ruffin",
     "nom": "François Ruffin",
     "parti": "Debout !",
     "statut": "Déclaré",
-    "photo_url": ""
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/ruffin_portrait.png"
   },
   {
     "id": "clementine-autain",
     "nom": "Clémentine Autain",
     "parti": "L'Après",
     "statut": "Déclarée",
-    "photo_url": ""
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/autain_portrait.png"
   },
   {
     "id": "raphael-glucksmann",
     "nom": "Raphaël Glucksmann",
     "parti": "Place publique",
     "statut": "Déclaré",
-    "photo_url": ""
-  },
-  {
-    "id": "bernard-cazeneuve",
-    "nom": "Bernard Cazeneuve",
-    "parti": "La Convention",
-    "statut": "Déclaré",
-    "photo_url": ""
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/glucksmann_portrait.png"
   },
   {
     "id": "fabien-roussel",
     "nom": "Fabien Roussel",
     "parti": "Parti Communiste Français",
-    "statut": "Pressenti",
-    "photo_url": ""
+    "statut": "Déclaré",
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/roussel_portrait.png"
   },
   {
     "id": "karim-bouamrane",
     "nom": "Karim Bouamrane",
-    "parti": "La France franchouillarde",
-    "statut": "Potentiel",
-    "photo_url": ""
+    "parti": "La France franchouillarde (gauche)",
+    "statut": "Déclaré",
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/bouamrane_portrait.png"
   },
   {
     "id": "marine-tondelier",
     "nom": "Marine Tondelier",
     "parti": "Les Écologistes",
     "statut": "Déclarée",
-    "photo_url": ""
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/tondelier_portrait.png"
   },
   {
     "id": "delphine-batho",
     "nom": "Delphine Batho",
     "parti": "Génération Écologie",
     "statut": "Déclarée",
-    "photo_url": ""
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/batho_portrait.png"
   },
   {
     "id": "nathalie-arthaud",
     "nom": "Nathalie Arthaud",
     "parti": "Lutte Ouvrière",
     "statut": "Déclarée",
-    "photo_url": ""
-  },
-  {
-    "id": "philippe-poutou",
-    "nom": "Philippe Poutou",
-    "parti": "NPA",
-    "statut": "Potentiel",
-    "photo_url": ""
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/arthaud_portrait.png"
   },
   {
     "id": "anasse-kazib",
     "nom": "Anasse Kazib",
     "parti": "Révolution Permanente",
     "statut": "Déclaré",
-    "photo_url": ""
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/kazib_portrait.png"
   },
   {
     "id": "jean-lassalle",
     "nom": "Jean Lassalle",
     "parti": "Résistons !",
-    "statut": "Potentiel",
-    "photo_url": ""
+    "statut": "Déclaré",
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/lassalle_portrait.png"
   },
   {
     "id": "natacha-polony",
     "nom": "Natacha Polony",
     "parti": "Indépendante / Souverainiste",
     "statut": "Déclarée",
-    "photo_url": ""
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/polony_portrait.png"
   },
   {
     "id": "juan-branco",
     "nom": "Juan Branco",
     "parti": "Les Ruches",
     "statut": "Déclaré",
-    "photo_url": ""
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/branco_portrait.png"
   },
   {
     "id": "francis-lalanne",
     "nom": "Francis Lalanne",
     "parti": "Alliance citoyenne",
     "statut": "Déclaré",
-    "photo_url": ""
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/lalanne_portrait.png"
   },
   {
     "id": "clara-egger",
     "nom": "Clara Egger",
     "parti": "Espoir RIC",
     "statut": "Déclarée",
-    "photo_url": ""
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/egger_portrait.png"
   },
   {
     "id": "antoine-mikolajczak",
     "nom": "Antoine Mikolajczak",
     "parti": "Équinoxe",
     "statut": "Déclaré",
-    "photo_url": ""
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/mikolajczak_portrait.png"
   },
   {
     "id": "sylvain-durif",
-    "nom": "Sylvain Durif",
+    "nom": "Sylvain Pierre Durif",
     "parti": "Indépendant",
     "statut": "Déclaré",
-    "photo_url": ""
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/durif_portrait.png"
   },
   {
     "id": "mira-markovic",
     "nom": "Mira Markovic",
     "parti": "Parti Animaliste",
     "statut": "Déclarée",
-    "photo_url": ""
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/markovic_portrait.png"
+  },
+  {
+    "id": "olivier-becht",
+    "nom": "Olivier Becht",
+    "parti": "Centre",
+    "statut": "Déclarée",
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/becht_portrait.png"
+  },
+  {
+    "id": "augustin-billetdoux",
+    "nom": "Augustin Billetdoux",
+    "parti": "Divers (gauche)",
+    "statut": "Déclarée",
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/billetdoux_portrait.png"
+  },
+  {
+    "id": "christian-collovati",
+    "nom": "Christian Collovati",
+    "parti": "Le Peuple français",
+    "statut": "Déclarée",
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/collovati_portrait.png"
+  },
+  {
+    "id": "selma-labib",
+    "nom": "Selma Labib",
+    "parti": "Nouveau Parti anticapitaliste-Révolutionnaires (NPA)",
+    "statut": "Déclarée",
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/labib_portrait.png"
+  },
+  {
+    "id": "jeanfrançois-legendre",
+    "nom": "Jean-François Legendre",
+    "parti": "A nous maintenant",
+    "statut": "Déclarée",
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/legendre_portrait.png"
+  },
+  {
+    "id": "benoit-mathieu",
+    "nom": "Benoît Mathieu",
+    "parti": "Divers",
+    "statut": "Déclarée",
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/mathieu_portrait.png"
+  },
+  {
+    "id": "manolo-mlekuz",
+    "nom": "Manolo Mlekuz",
+    "parti": "Trajectoire",
+    "statut": "Déclarée",
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/mlekuz_portrait.png"
+  },
+  {
+    "id": "gilles-platret",
+    "nom": "Gilles Platret",
+    "parti": "Droite",
+    "statut": "Déclarée",
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/platret_portrait.png"
+  },
+  {
+    "id": "bruno-retailleau",
+    "nom": "Bruno Retailleau",
+    "parti": "Les Républicains",
+    "statut": "Déclarée",
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/retailleau_portrait.png"
+  },
+  {
+    "id": "erwan-rohou",
+    "nom": "Erwan Rohou",
+    "parti": "Mouvement écologiste indépendant",
+    "statut": "Déclarée",
+    "photo_url": "https://www.franceinfo.fr/docs/journalisme-visuel/projects/presidential_election_candidates_2027/rohou_portrait.png"
   }
 ]
