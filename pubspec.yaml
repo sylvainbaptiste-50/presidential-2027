@@ -1,0 +1,17 @@
+name: presidential_2027
+description: Application de consultation des programmes présidentiels 2027
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.3.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/programmes.json
