@@ -41,15 +41,41 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
   }
 
   Future<void> _loadJsonData() async {
-    final String jsonString = await rootBundle.loadString('assets/programmes.json');
-    final data = json.decode(jsonString);
-    setState(() {
-      allCandidates = data;
-      isLoading = false;
-    });
+    try {
+      final String indexString = await rootBundle.loadString('assets/index_candidats.json');
+      final List<dynamic> indexData = json.decode(indexString);
+      
+      List<dynamic> fullData = [];
+
+      for (var candidat in indexData) {
+        Map<String, dynamic> candidatComplet = Map<String, dynamic>.from(candidat);
+        candidatComplet['propositions'] = []; 
+        candidatComplet['source_url'] = '';
+
+        try {
+          final String progString = await rootBundle.loadString('assets/programmes/${candidat['id']}.json');
+          final Map<String, dynamic> progData = json.decode(progString);
+          candidatComplet['propositions'] = progData['propositions'] ?? [];
+          candidatComplet['source_url'] = progData['source_url'] ?? '';
+        } catch (e) {
+          // Fichier JSON individuel non trouvé, ce n'est pas bloquant
+        }
+
+        fullData.add(candidatComplet);
+      }
+
+      setState(() {
+        allCandidates = fullData;
+        isLoading = false;
+      });
+    } catch (e) {
+      debugPrint("Erreur lors du chargement : $e");
+      setState(() => isLoading = false);
+    }
   }
 
   Future<void> _openUrl(String url) async {
+    if (url.isEmpty) return;
     final Uri uri = Uri.parse(url);
     if (!await launchUrl(uri, mode: LaunchMode.externalApplication)) {
       debugPrint('Impossible d\'ouvrir $url');
@@ -82,7 +108,7 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
               padding: const EdgeInsets.all(12.0),
               child: TextField(
                 decoration: InputDecoration(
-                  hintText: 'Rechercher une mesure (ex. SMIC, nucléaire...)',
+                  hintText: 'Rechercher une mesure (ex. SMIC, sécurité...)',
                   prefixIcon: const Icon(Icons.search),
                   border: OutlineInputBorder(borderRadius: BorderRadius.circular(12)),
                   contentPadding: const EdgeInsets.symmetric(horizontal: 16),
@@ -125,12 +151,16 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
           child: ExpansionTile(
             title: Text(cand['nom'], style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 16)),
             subtitle: Text('${cand['parti']} • ${cand['statut']}'),
-            trailing: IconButton(
-              icon: const Icon(Icons.link, color: Colors.blue),
-              tooltip: 'Site officiel',
-              onPressed: () => _openUrl(cand['source_url']),
-            ),
-            children: props.map<Widget>((p) {
+            trailing: cand['source_url'] != '' 
+                ? IconButton(
+                    icon: const Icon(Icons.link, color: Colors.blue),
+                    tooltip: 'Site officiel',
+                    onPressed: () => _openUrl(cand['source_url']),
+                  )
+                : const SizedBox.shrink(),
+            children: props.isEmpty 
+              ? [const Padding(padding: EdgeInsets.all(16.0), child: Text("Programme en cours de rédaction...", style: TextStyle(fontStyle: FontStyle.italic)))]
+              : props.map<Widget>((p) {
               return Container(
                 decoration: const BoxDecoration(
                   border: Border(bottom: BorderSide(color: Colors.black12, width: 0.5)),

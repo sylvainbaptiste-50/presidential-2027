@@ -14,4 +14,5 @@ dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/programmes.json
+    - assets/index_candidats.json
+    - assets/programmes/
