@@ -160,8 +160,8 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
     );
   }
 
-Widget _buildThematiquesView() {
-    final Map<String, List>> byTheme = {};
+  Widget _buildThematiquesView() {
+    final Map<String, dynamic> byTheme = {};
 
     for (var cand in allCandidates) {
       for (var prop in cand['propositions']) {
@@ -170,8 +170,10 @@ Widget _buildThematiquesView() {
         final d = prop['detail'].toString().toLowerCase();
 
         if (searchQuery.isEmpty || t.contains(searchQuery) || d.contains(searchQuery) || th.toLowerCase().contains(searchQuery)) {
-          byTheme.putIfAbsent(th, () => []);
-          byTheme[th]!.add({
+          if (!byTheme.containsKey(th)) {
+            byTheme[th] = [];
+          }
+          byTheme[th].add({
             'candidat': cand['nom'],
             'parti': cand['parti'],
             'titre': prop['titre'],
@@ -188,13 +190,14 @@ Widget _buildThematiquesView() {
 
     return ListView(
       children: byTheme.entries.map((entry) {
+        final List items = entry.value as List;
         return Card(
           margin: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
           child: ExpansionTile(
             initiallyExpanded: searchQuery.isNotEmpty,
             title: Text(entry.key, style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 16)),
-            subtitle: Text('${entry.value.length} propositions enregistrées'),
-            children: entry.value.map<Widget>((item) {
+            subtitle: Text('${items.length} propositions enregistrées'),
+            children: items.map<Widget>((item) {
               return Container(
                 decoration: const BoxDecoration(
                   border: Border(bottom: BorderSide(color: Colors.black12, width: 0.5)),
@@ -220,3 +223,4 @@ Widget _buildThematiquesView() {
       }).toList(),
     );
   }
+}
