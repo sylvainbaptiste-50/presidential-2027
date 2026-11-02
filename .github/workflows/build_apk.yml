@@ -42,4 +42,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: presidential-2027-apk
-          path: build/app/outputs/flutter-apk/presidentiel2027.apk
+          path: build/app/outputs/flutter-apk/app-release.apk
