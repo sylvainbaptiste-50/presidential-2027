@@ -160,7 +160,7 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
     );
   }
 
-  Widget _buildThematiquesView() {
+Widget _buildThematiquesView() {
     final Map<String, List>> byTheme = {};
 
     for (var cand in allCandidates) {
@@ -220,4 +220,3 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
       }).toList(),
     );
   }
-}
