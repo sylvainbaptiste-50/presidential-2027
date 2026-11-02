@@ -1,36 +1,240 @@
 [
-  {"id": "gabriel-attal", "nom": "Gabriel Attal", "parti": "Renaissance", "statut": "Pressenti"},
-  {"id": "edouard-philippe", "nom": "Édouard Philippe", "parti": "Horizons", "statut": "Déclaré"},
-  {"id": "francois-bayrou", "nom": "François Bayrou", "parti": "MoDem", "statut": "Potentiel"},
-  {"id": "jean-castex", "nom": "Jean Castex", "parti": "Indépendant", "statut": "Potentiel"},
-  {"id": "laurent-wauquiez", "nom": "Laurent Wauquiez", "parti": "Les Républicains", "statut": "Pressenti"},
-  {"id": "david-lisnard", "nom": "David Lisnard", "parti": "Nouvelle Énergie", "statut": "Déclaré"},
-  {"id": "xavier-bertrand", "nom": "Xavier Bertrand", "parti": "Nous France", "statut": "Potentiel"},
-  {"id": "dominique-de-villepin", "nom": "Dominique de Villepin", "parti": "La France humaniste", "statut": "Déclaré"},
-  {"id": "marine-le-pen", "nom": "Marine Le Pen", "parti": "Rassemblement National", "statut": "Déclarée"},
-  {"id": "jordan-bardella", "nom": "Jordan Bardella", "parti": "Rassemblement National", "statut": "Potentiel"},
-  {"id": "eric-zemmour", "nom": "Éric Zemmour", "parti": "Reconquête", "statut": "Déclaré"},
-  {"id": "nicolas-dupont-aignan", "nom": "Nicolas Dupont-Aignan", "parti": "Debout la France", "statut": "Déclaré"},
-  {"id": "florian-philippot", "nom": "Florian Philippot", "parti": "Les Patriotes", "statut": "Déclaré"},
-  {"id": "francois-asselineau", "nom": "François Asselineau", "parti": "UPR", "statut": "Déclaré"},
-  {"id": "jean-luc-melenchon", "nom": "Jean-Luc Mélenchon", "parti": "La France Insoumise", "statut": "Pressenti"},
-  {"id": "francois-ruffin", "nom": "François Ruffin", "parti": "Debout !", "statut": "Déclaré"},
-  {"id": "clementine-autain", "nom": "Clémentine Autain", "parti": "L'Après", "statut": "Déclarée"},
-  {"id": "raphael-glucksmann", "nom": "Raphaël Glucksmann", "parti": "Place publique", "statut": "Déclaré"},
-  {"id": "bernard-cazeneuve", "nom": "Bernard Cazeneuve", "parti": "La Convention", "statut": "Déclaré"},
-  {"id": "fabien-roussel", "nom": "Fabien Roussel", "parti": "Parti Communiste Français", "statut": "Pressenti"},
-  {"id": "karim-bouamrane", "nom": "Karim Bouamrane", "parti": "La France franchouillarde", "statut": "Potentiel"},
-  {"id": "marine-tondelier", "nom": "Marine Tondelier", "parti": "Les Écologistes", "statut": "Déclarée"},
-  {"id": "delphine-batho", "nom": "Delphine Batho", "parti": "Génération Écologie", "statut": "Déclarée"},
-  {"id": "nathalie-arthaud", "nom": "Nathalie Arthaud", "parti": "Lutte Ouvrière", "statut": "Déclarée"},
-  {"id": "philippe-poutou", "nom": "Philippe Poutou", "parti": "NPA", "statut": "Potentiel"},
-  {"id": "anasse-kazib", "nom": "Anasse Kazib", "parti": "Révolution Permanente", "statut": "Déclaré"},
-  {"id": "jean-lassalle", "nom": "Jean Lassalle", "parti": "Résistons !", "statut": "Potentiel"},
-  {"id": "natacha-polony", "nom": "Natacha Polony", "parti": "Indépendante / Souverainiste", "statut": "Déclarée"},
-  {"id": "juan-branco", "nom": "Juan Branco", "parti": "Les Ruches", "statut": "Déclaré"},
-  {"id": "francis-lalanne", "nom": "Francis Lalanne", "parti": "Alliance citoyenne", "statut": "Déclaré"},
-  {"id": "clara-egger", "nom": "Clara Egger", "parti": "Espoir RIC", "statut": "Déclarée"},
-  {"id": "antoine-mikolajczak", "nom": "Antoine Mikolajczak", "parti": "Équinoxe", "statut": "Déclaré"},
-  {"id": "sylvain-durif", "nom": "Sylvain Durif", "parti": "Indépendant", "statut": "Déclaré"},
-  {"id": "mira-markovic", "nom": "Mira Markovic", "parti": "Parti Animaliste", "statut": "Déclarée"}
+  {
+    "id": "gabriel-attal",
+    "nom": "Gabriel Attal",
+    "parti": "Renaissance",
+    "statut": "Pressenti",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gabriel_Attal_2025_%28close_crop%29.jpg/960px-Gabriel_Attal_2025_%28close_crop%29.jpg"
+  },
+  {
+    "id": "edouard-philippe",
+    "nom": "Édouard Philippe",
+    "parti": "Horizons",
+    "statut": "Déclaré",
+    "photo_url": ""
+  },
+  {
+    "id": "francois-bayrou",
+    "nom": "François Bayrou",
+    "parti": "MoDem",
+    "statut": "Potentiel",
+    "photo_url": ""
+  },
+  {
+    "id": "jean-castex",
+    "nom": "Jean Castex",
+    "parti": "Indépendant",
+    "statut": "Potentiel",
+    "photo_url": ""
+  },
+  {
+    "id": "laurent-wauquiez",
+    "nom": "Laurent Wauquiez",
+    "parti": "Les Républicains",
+    "statut": "Pressenti",
+    "photo_url": ""
+  },
+  {
+    "id": "david-lisnard",
+    "nom": "David Lisnard",
+    "parti": "Nouvelle Énergie",
+    "statut": "Déclaré",
+    "photo_url": ""
+  },
+  {
+    "id": "xavier-bertrand",
+    "nom": "Xavier Bertrand",
+    "parti": "Nous France",
+    "statut": "Potentiel",
+    "photo_url": ""
+  },
+  {
+    "id": "dominique-de-villepin",
+    "nom": "Dominique de Villepin",
+    "parti": "La France humaniste",
+    "statut": "Déclaré",
+    "photo_url": ""
+  },
+  {
+    "id": "marine-le-pen",
+    "nom": "Marine Le Pen",
+    "parti": "Rassemblement National",
+    "statut": "Déclarée",
+    "photo_url": ""
+  },
+  {
+    "id": "jordan-bardella",
+    "nom": "Jordan Bardella",
+    "parti": "Rassemblement National",
+    "statut": "Potentiel",
+    "photo_url": ""
+  },
+  {
+    "id": "eric-zemmour",
+    "nom": "Éric Zemmour",
+    "parti": "Reconquête",
+    "statut": "Déclaré",
+    "photo_url": ""
+  },
+  {
+    "id": "nicolas-dupont-aignan",
+    "nom": "Nicolas Dupont-Aignan",
+    "parti": "Debout la France",
+    "statut": "Déclaré",
+    "photo_url": ""
+  },
+  {
+    "id": "florian-philippot",
+    "nom": "Florian Philippot",
+    "parti": "Les Patriotes",
+    "statut": "Déclaré",
+    "photo_url": ""
+  },
+  {
+    "id": "francois-asselineau",
+    "nom": "François Asselineau",
+    "parti": "UPR",
+    "statut": "Déclaré",
+    "photo_url": ""
+  },
+  {
+    "id": "jean-luc-melenchon",
+    "nom": "Jean-Luc Mélenchon",
+    "parti": "La France Insoumise",
+    "statut": "Pressenti",
+    "photo_url": ""
+  },
+  {
+    "id": "francois-ruffin",
+    "nom": "François Ruffin",
+    "parti": "Debout !",
+    "statut": "Déclaré",
+    "photo_url": ""
+  },
+  {
+    "id": "clementine-autain",
+    "nom": "Clémentine Autain",
+    "parti": "L'Après",
+    "statut": "Déclarée",
+    "photo_url": ""
+  },
+  {
+    "id": "raphael-glucksmann",
+    "nom": "Raphaël Glucksmann",
+    "parti": "Place publique",
+    "statut": "Déclaré",
+    "photo_url": ""
+  },
+  {
+    "id": "bernard-cazeneuve",
+    "nom": "Bernard Cazeneuve",
+    "parti": "La Convention",
+    "statut": "Déclaré",
+    "photo_url": ""
+  },
+  {
+    "id": "fabien-roussel",
+    "nom": "Fabien Roussel",
+    "parti": "Parti Communiste Français",
+    "statut": "Pressenti",
+    "photo_url": ""
+  },
+  {
+    "id": "karim-bouamrane",
+    "nom": "Karim Bouamrane",
+    "parti": "La France franchouillarde",
+    "statut": "Potentiel",
+    "photo_url": ""
+  },
+  {
+    "id": "marine-tondelier",
+    "nom": "Marine Tondelier",
+    "parti": "Les Écologistes",
+    "statut": "Déclarée",
+    "photo_url": ""
+  },
+  {
+    "id": "delphine-batho",
+    "nom": "Delphine Batho",
+    "parti": "Génération Écologie",
+    "statut": "Déclarée",
+    "photo_url": ""
+  },
+  {
+    "id": "nathalie-arthaud",
+    "nom": "Nathalie Arthaud",
+    "parti": "Lutte Ouvrière",
+    "statut": "Déclarée",
+    "photo_url": ""
+  },
+  {
+    "id": "philippe-poutou",
+    "nom": "Philippe Poutou",
+    "parti": "NPA",
+    "statut": "Potentiel",
+    "photo_url": ""
+  },
+  {
+    "id": "anasse-kazib",
+    "nom": "Anasse Kazib",
+    "parti": "Révolution Permanente",
+    "statut": "Déclaré",
+    "photo_url": ""
+  },
+  {
+    "id": "jean-lassalle",
+    "nom": "Jean Lassalle",
+    "parti": "Résistons !",
+    "statut": "Potentiel",
+    "photo_url": ""
+  },
+  {
+    "id": "natacha-polony",
+    "nom": "Natacha Polony",
+    "parti": "Indépendante / Souverainiste",
+    "statut": "Déclarée",
+    "photo_url": ""
+  },
+  {
+    "id": "juan-branco",
+    "nom": "Juan Branco",
+    "parti": "Les Ruches",
+    "statut": "Déclaré",
+    "photo_url": ""
+  },
+  {
+    "id": "francis-lalanne",
+    "nom": "Francis Lalanne",
+    "parti": "Alliance citoyenne",
+    "statut": "Déclaré",
+    "photo_url": ""
+  },
+  {
+    "id": "clara-egger",
+    "nom": "Clara Egger",
+    "parti": "Espoir RIC",
+    "statut": "Déclarée",
+    "photo_url": ""
+  },
+  {
+    "id": "antoine-mikolajczak",
+    "nom": "Antoine Mikolajczak",
+    "parti": "Équinoxe",
+    "statut": "Déclaré",
+    "photo_url": ""
+  },
+  {
+    "id": "sylvain-durif",
+    "nom": "Sylvain Durif",
+    "parti": "Indépendant",
+    "statut": "Déclaré",
+    "photo_url": ""
+  },
+  {
+    "id": "mira-markovic",
+    "nom": "Mira Markovic",
+    "parti": "Parti Animaliste",
+    "statut": "Déclarée",
+    "photo_url": ""
+  }
 ]

@@ -42,15 +42,19 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
 
   Future<void> _loadJsonData() async {
     try {
+      // 1. Chargement de l'annuaire principal
       final String indexString = await rootBundle.loadString('assets/index_candidats.json');
       final List<dynamic> indexData = json.decode(indexString);
       
       List<dynamic> fullData = [];
 
+      // 2. Chargement des données spécifiques pour chaque candidat
       for (var candidat in indexData) {
         Map<String, dynamic> candidatComplet = Map<String, dynamic>.from(candidat);
         candidatComplet['propositions'] = []; 
         candidatComplet['source_url'] = '';
+        // Sécurisation du champ photo_url s'il est absent du JSON
+        candidatComplet['photo_url'] = candidat['photo_url'] ?? ''; 
 
         try {
           final String progString = await rootBundle.loadString('assets/programmes/${candidat['id']}.json');
@@ -146,12 +150,24 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
           return const SizedBox.shrink();
         }
 
+        final bool hasPhoto = cand['photo_url'] != null && cand['photo_url'].toString().isNotEmpty;
+
         return Card(
           margin: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
           child: ExpansionTile(
+            leading: CircleAvatar(
+              backgroundImage: hasPhoto ? NetworkImage(cand['photo_url']) : null,
+              backgroundColor: Colors.blueGrey.shade100,
+              child: !hasPhoto
+                  ? Text(
+                      cand['nom'][0].toUpperCase(),
+                      style: const TextStyle(fontWeight: FontWeight.bold, color: Colors.blueGrey),
+                    )
+                  : null,
+            ),
             title: Text(cand['nom'], style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 16)),
             subtitle: Text('${cand['parti']} • ${cand['statut']}'),
-            trailing: cand['source_url'] != '' 
+            trailing: cand['source_url'] != null && cand['source_url'] != '' 
                 ? IconButton(
                     icon: const Icon(Icons.link, color: Colors.blue),
                     tooltip: 'Site officiel',

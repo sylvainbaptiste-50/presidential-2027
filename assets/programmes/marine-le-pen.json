@@ -1,0 +1,13 @@
+{
+  "id": "marine-le-pen",
+  "nom": "Marine Le Pen",
+  "source_url": "https://rassemblementnational.fr",
+  "propositions": [
+    {
+      "thematique": "Thématique d'exemple",
+      "titre": "Mesure phare de Marine Le Pen",
+      "detail": "Détail de la proposition en attente de rédaction.",
+      "source_texte": "En attente de programme officiel"
+    }
+  ]
+}

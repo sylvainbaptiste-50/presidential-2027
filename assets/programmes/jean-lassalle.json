@@ -1,0 +1,13 @@
+{
+  "id": "jean-lassalle",
+  "nom": "Jean Lassalle",
+  "source_url": "",
+  "propositions": [
+    {
+      "thematique": "Thématique d'exemple",
+      "titre": "Mesure phare de Jean Lassalle",
+      "detail": "Détail de la proposition en attente de rédaction.",
+      "source_texte": "En attente de programme officiel"
+    }
+  ]
+}

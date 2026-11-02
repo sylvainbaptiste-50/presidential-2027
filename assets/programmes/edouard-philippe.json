@@ -1,17 +1,13 @@
 {
+  "id": "edouard-philippe",
+  "nom": "Édouard Philippe",
   "source_url": "https://horizonsleparti.fr",
   "propositions": [
     {
-      "thematique": "Retraites & Travail",
-      "titre": "Maintien de la retraite à 64 ans",
-      "detail": "Conserver la réforme des retraites pour assurer l'équilibre budgétaire et encourager le cumul emploi-retraite.",
-      "source_texte": "Horizons"
-    },
-    {
-      "thematique": "Institutions & Démocratie",
-      "titre": "Restauration de l'autorité de l'État",
-      "detail": "Renforcement des pouvoirs des maires et révision de l'ordonnance de 1945 sur la justice des mineurs.",
-      "source_texte": "Horizons"
+      "thematique": "Thématique d'exemple",
+      "titre": "Mesure phare de Édouard Philippe",
+      "detail": "Détail de la proposition en attente de rédaction.",
+      "source_texte": "En attente de programme officiel"
     }
   ]
 }
