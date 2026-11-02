@@ -4,10 +4,16 @@
   "source_url": "https://upr.fr",
   "propositions": [
     {
-      "thematique": "Thématique d'exemple",
-      "titre": "Mesure phare de François Asselineau",
-      "detail": "Détail de la proposition en attente de rédaction.",
-      "source_texte": "En attente de programme officiel"
+      "thematique": "Europe & International",
+      "titre": "Frexit total et sortie de l'OTAN",
+      "detail": "Sortie immédiate de l'Union européenne, de l'euro et de l'OTAN par l'activation de l'article 50.",
+      "source_texte": "Programme UPR"
+    },
+    {
+      "thematique": "Économie & Fiscalité",
+      "titre": "Nationalisation des infrastructures",
+      "detail": "Reprise en main par l'État des autoroutes, de l'eau et de l'énergie.",
+      "source_texte": "UPR"
     }
   ]
 }

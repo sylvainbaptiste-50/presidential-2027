@@ -1,13 +1,13 @@
 {
   "id": "francois-bayrou",
   "nom": "François Bayrou",
-  "source_url": "",
+  "source_url": "https://mouvementdemocrate.fr",
   "propositions": [
     {
-      "thematique": "Thématique d'exemple",
-      "titre": "Mesure phare de François Bayrou",
-      "detail": "Détail de la proposition en attente de rédaction.",
-      "source_texte": "En attente de programme officiel"
+      "thematique": "Institutions & Démocratie",
+      "titre": "Lancement de la campagne",
+      "detail": "Les propositions détaillées de François Bayrou pour 2027 sont en cours de structuration.",
+      "source_texte": "Equipe de campagne"
     }
   ]
 }

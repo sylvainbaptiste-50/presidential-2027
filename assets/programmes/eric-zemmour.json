@@ -4,10 +4,28 @@
   "source_url": "https://parti-reconquete.fr",
   "propositions": [
     {
-      "thematique": "Thématique d'exemple",
-      "titre": "Mesure phare de Éric Zemmour",
-      "detail": "Détail de la proposition en attente de rédaction.",
-      "source_texte": "En attente de programme officiel"
+      "thematique": "Sécurité & Justice",
+      "titre": "Ministère de la Remigration",
+      "detail": "Expulsion des étrangers en situation irrégulière, suppression du regroupement familial et du droit du sol.",
+      "source_texte": "Programme Reconquête"
+    },
+    {
+      "thematique": "Jeunesse & Éducation",
+      "titre": "Fin du collège unique",
+      "detail": "Rétablissement d'un examen d'entrée au collège, suppression des pédagogies constructivistes et retour de l'uniforme.",
+      "source_texte": "Livret Éducation"
+    },
+    {
+      "thematique": "Économie & Fiscalité",
+      "titre": "Baisse massive des impôts de production",
+      "detail": "Suppression totale des impôts sur la production pour favoriser la réindustrialisation.",
+      "source_texte": "Programme économique Reconquête"
+    },
+    {
+      "thematique": "Retraites & Travail",
+      "titre": "Maintien de l'âge légal et prime au pouvoir d'achat",
+      "detail": "Conserver la retraite à 64 ans et exonérer d'impôts les pensions inférieures à 1500€.",
+      "source_texte": "Reconquête"
     }
   ]
 }

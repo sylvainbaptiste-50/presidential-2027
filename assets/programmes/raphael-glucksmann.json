@@ -4,10 +4,28 @@
   "source_url": "https://place-publique.eu",
   "propositions": [
     {
-      "thematique": "Thématique d'exemple",
-      "titre": "Mesure phare de Raphaël Glucksmann",
-      "detail": "Détail de la proposition en attente de rédaction.",
-      "source_texte": "En attente de programme officiel"
+      "thematique": "Économie & Fiscalité",
+      "titre": "Taxation des méga-héritages et impôt sur la fortune",
+      "detail": "Taxer les héritages de plus de 2 millions d'euros pour baisser la CSG et instaurer la taxe Zucman.",
+      "source_texte": "Place publique / IFRAP"
+    },
+    {
+      "thematique": "Europe & International",
+      "titre": "Fédéralisme européen et souveraineté industrielle",
+      "detail": "Soutien massif à l'Ukraine, renforcement de l'Europe de la défense et réindustrialisation verte européenne.",
+      "source_texte": "Manifeste PP"
+    },
+    {
+      "thematique": "Jeunesse & Éducation",
+      "titre": "Capital universel de 50 000 € à 25 ans",
+      "detail": "Dotation de départ pour tous les jeunes, financée par un héritage maximum plafonné.",
+      "source_texte": "Place publique"
+    },
+    {
+      "thematique": "Retraites & Travail",
+      "titre": "Conférence sociale sur la pénibilité",
+      "detail": "Aménagement de l'âge de départ à la retraite en prenant réellement en compte les métiers usants.",
+      "source_texte": "Place publique"
     }
   ]
 }

@@ -4,10 +4,16 @@
   "source_url": "https://pcf.fr",
   "propositions": [
     {
-      "thematique": "Thématique d'exemple",
-      "titre": "Mesure phare de Fabien Roussel",
-      "detail": "Détail de la proposition en attente de rédaction.",
-      "source_texte": "En attente de programme officiel"
+      "thematique": "Économie & Fiscalité",
+      "titre": "Indexation des salaires",
+      "detail": "Augmentation générale des salaires et taxation des revenus financiers à l'égal des revenus du travail.",
+      "source_texte": "PCF"
+    },
+    {
+      "thematique": "Écologie & Énergie",
+      "titre": "Mix nucléaire et renouvelable",
+      "detail": "Investissement massif dans de nouveaux réacteurs nucléaires combinés aux renouvelables.",
+      "source_texte": "Programme PCF"
     }
   ]
 }

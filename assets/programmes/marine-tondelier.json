@@ -4,10 +4,22 @@
   "source_url": "https://lesecologistes.fr",
   "propositions": [
     {
-      "thematique": "Thématique d'exemple",
-      "titre": "Mesure phare de Marine Tondelier",
-      "detail": "Détail de la proposition en attente de rédaction.",
-      "source_texte": "En attente de programme officiel"
+      "thematique": "Écologie & Énergie",
+      "titre": "Sortie des fossiles et ISF climatique",
+      "detail": "Financement de la transition écologique par le rétablissement d'un ISF intégrant l'empreinte carbone.",
+      "source_texte": "Les Écologistes"
+    },
+    {
+      "thematique": "Jeunesse & Éducation",
+      "titre": "Revenu universel d'émancipation",
+      "detail": "Versement d'un revenu de base pour tous les jeunes de 18 à 25 ans au-dessus du seuil de pauvreté.",
+      "source_texte": "Livret Écologiste"
+    },
+    {
+      "thematique": "Retraites & Travail",
+      "titre": "Retraite à 60 ans et trimestres associatifs",
+      "detail": "Retour à l'âge de 60 ans et validation de droits pour les activités associatives et bénévoles.",
+      "source_texte": "Programme Les Écologistes"
     }
   ]
 }

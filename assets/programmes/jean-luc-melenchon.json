@@ -4,10 +4,46 @@
   "source_url": "https://lafranceinsoumise.fr",
   "propositions": [
     {
-      "thematique": "Thématique d'exemple",
-      "titre": "Mesure phare de Jean-Luc Mélenchon",
-      "detail": "Détail de la proposition en attente de rédaction.",
-      "source_texte": "En attente de programme officiel"
+      "thematique": "Économie & Fiscalité",
+      "titre": "SMIC à 1 600 € et blocage des prix",
+      "detail": "Revalorisation du SMIC net à 1 600 €, indexation des salaires sur l'inflation et encadrement des marges de la grande distribution.",
+      "source_texte": "L'Avenir en commun"
+    },
+    {
+      "thematique": "Retraites & Travail",
+      "titre": "Retraite à 60 ans à taux plein",
+      "detail": "Abrogation de la réforme des retraites de 2023 et retour de la retraite à 60 ans avec 40 annuités.",
+      "source_texte": "L'Avenir en commun"
+    },
+    {
+      "thematique": "Écologie & Énergie",
+      "titre": "Règle verte et 100% renouvelable",
+      "detail": "Planification écologique, interdiction de prélever plus que ce que la nature reconstitue, et sortie programmée du nucléaire.",
+      "source_texte": "Livret écologie LFI"
+    },
+    {
+      "thematique": "Institutions & Démocratie",
+      "titre": "Passage à la VIe République",
+      "detail": "Convocation d'une assemblée constituante, suppression de l'article 49.3 et instauration du Référendum d'Initiative Citoyenne révocatoire.",
+      "source_texte": "L'Avenir en commun"
+    },
+    {
+      "thematique": "Jeunesse & Éducation",
+      "titre": "Allocation d'autonomie universelle",
+      "detail": "Versement de 1 150 € par mois à chaque jeune de 18 à 25 ans détaché du foyer fiscal de ses parents.",
+      "source_texte": "Livret Jeunesse LFI"
+    },
+    {
+      "thematique": "Europe & International",
+      "titre": "Désobéissance aux traités européens",
+      "detail": "Sortie des traités européens actuels s'ils bloquent l'application du programme social et écologique (opt-out).",
+      "source_texte": "L'Avenir en commun"
+    },
+    {
+      "thematique": "Sécurité & Justice",
+      "titre": "Refonte de la doctrine policière",
+      "detail": "Rétablissement de la police de proximité, démantèlement de la BAC et création d'une instance indépendante pour juger les violences policières.",
+      "source_texte": "Programme LFI"
     }
   ]
 }

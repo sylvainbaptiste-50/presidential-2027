@@ -1,13 +1,19 @@
 {
   "id": "francois-ruffin",
   "nom": "François Ruffin",
-  "source_url": "",
+  "source_url": "https://debout-la-france.fr",
   "propositions": [
     {
-      "thematique": "Thématique d'exemple",
-      "titre": "Mesure phare de François Ruffin",
-      "detail": "Détail de la proposition en attente de rédaction.",
-      "source_texte": "En attente de programme officiel"
+      "thematique": "Retraites & Travail",
+      "titre": "Retraite à 60 ans pour les métiers du lien",
+      "detail": "Départ anticipé pour les professions pénibles et les travailleurs manuels.",
+      "source_texte": "Debout!"
+    },
+    {
+      "thematique": "Économie & Fiscalité",
+      "titre": "Désindexation des prix de l'énergie",
+      "detail": "Sortie du marché européen de l'énergie pour garantir des prix bas.",
+      "source_texte": "Debout!"
     }
   ]
 }

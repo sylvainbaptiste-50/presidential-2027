@@ -4,10 +4,16 @@
   "source_url": "https://www.unenouvelleenergie.fr",
   "propositions": [
     {
-      "thematique": "Thématique d'exemple",
-      "titre": "Mesure phare de David Lisnard",
-      "detail": "Détail de la proposition en attente de rédaction.",
-      "source_texte": "En attente de programme officiel"
+      "thematique": "Économie & Fiscalité",
+      "titre": "Baisse massive de la dépense publique",
+      "detail": "Plan de réduction des dépenses publiques pour désendetter le pays et alléger la fiscalité.",
+      "source_texte": "Nouvelle Énergie"
+    },
+    {
+      "thematique": "Institutions & Démocratie",
+      "titre": "Débureaucratisation de l'État",
+      "detail": "Suppression des agences d'État redondantes et retour du pouvoir de décision aux maires.",
+      "source_texte": "Nouvelle Énergie"
     }
   ]
 }

@@ -4,10 +4,16 @@
   "source_url": "https://debout-la-france.fr",
   "propositions": [
     {
-      "thematique": "Thématique d'exemple",
-      "titre": "Mesure phare de Nicolas Dupont-Aignan",
-      "detail": "Détail de la proposition en attente de rédaction.",
-      "source_texte": "En attente de programme officiel"
+      "thematique": "Europe & International",
+      "titre": "Souveraineté nationale et primauté du droit français",
+      "detail": "Rétablir la supériorité de la Constitution française sur les directives européennes.",
+      "source_texte": "DLF"
+    },
+    {
+      "thematique": "Économie & Fiscalité",
+      "titre": "Exonération massive des droits de succession",
+      "detail": "Exonérer de droits de succession la transmission d'entreprises sur 90% de leur valeur.",
+      "source_texte": "Fondation IFRAP / DLF"
     }
   ]
 }

@@ -4,10 +4,16 @@
   "source_url": "https://lutte-ouvriere.org",
   "propositions": [
     {
-      "thematique": "Thématique d'exemple",
-      "titre": "Mesure phare de Nathalie Arthaud",
-      "detail": "Détail de la proposition en attente de rédaction.",
-      "source_texte": "En attente de programme officiel"
+      "thematique": "Retraites & Travail",
+      "titre": "Retraite à 60 ans et interdiction des licenciements",
+      "detail": "Départ à 60 ans pour tous sans décote et interdiction stricte des licenciements.",
+      "source_texte": "Lutte Ouvrière"
+    },
+    {
+      "thematique": "Économie & Fiscalité",
+      "titre": "Levée du secret des affaires",
+      "detail": "Transparence totale sur la comptabilité des grandes entreprises et indexation des salaires sur l'inflation.",
+      "source_texte": "Lutte Ouvrière"
     }
   ]
 }

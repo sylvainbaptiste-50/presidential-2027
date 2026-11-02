@@ -4,10 +4,46 @@
   "source_url": "https://parti-renaissance.fr",
   "propositions": [
     {
-      "thematique": "Thématique d'exemple",
-      "titre": "Mesure phare de Gabriel Attal",
-      "detail": "Détail de la proposition en attente de rédaction.",
-      "source_texte": "En attente de programme officiel"
+      "thematique": "Économie & Fiscalité",
+      "titre": "Baisse d'impôts pour les classes moyennes",
+      "detail": "Réduction de 2 Md€ d'impôts pour les classes moyennes et poursuite de la baisse des impôts de production.",
+      "source_texte": "Renaissance / IFRAP"
+    },
+    {
+      "thematique": "Retraites & Travail",
+      "titre": "Maintien de la réforme et index senior",
+      "detail": "Sanctuarisation de l'âge légal à 64 ans et mise en place de mesures pour l'emploi des seniors.",
+      "source_texte": "Propositions Renaissance"
+    },
+    {
+      "thematique": "Jeunesse & Éducation",
+      "titre": "Choc des savoirs et refonte des bourses",
+      "detail": "Poursuite des groupes de niveau et réforme du système Crous pour mieux aider les classes moyennes.",
+      "source_texte": "Ministère de l'Éducation"
+    },
+    {
+      "thematique": "Sécurité & Justice",
+      "titre": "Fermeté face à la délinquance des mineurs",
+      "detail": "Atténuation de l'excuse de minorité pour les récidivistes et mise en place de travaux d'intérêt général plus rapides.",
+      "source_texte": "Déclarations 2024-2025"
+    },
+    {
+      "thematique": "Europe & International",
+      "titre": "Souveraineté européenne",
+      "detail": "Renforcer la défense européenne et l'autonomie stratégique tout en maintenant un soutien ferme à l'Ukraine.",
+      "source_texte": "Programme Renaissance"
+    },
+    {
+      "thematique": "Écologie & Énergie",
+      "titre": "Planification et relance nucléaire",
+      "detail": "Construction de nouveaux réacteurs EPR et développement de l'éolien en mer, accompagnés de la planification écologique.",
+      "source_texte": "Gouvernement 2024"
+    },
+    {
+      "thematique": "Institutions & Démocratie",
+      "titre": "Modernisation des services publics",
+      "detail": "Simplification administrative pour les particuliers et les entreprises.",
+      "source_texte": "Loi de simplification"
     }
   ]
 }

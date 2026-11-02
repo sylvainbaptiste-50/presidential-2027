@@ -4,10 +4,34 @@
   "source_url": "https://horizonsleparti.fr",
   "propositions": [
     {
-      "thematique": "Thématique d'exemple",
-      "titre": "Mesure phare de Édouard Philippe",
-      "detail": "Détail de la proposition en attente de rédaction.",
-      "source_texte": "En attente de programme officiel"
+      "thematique": "Économie & Fiscalité",
+      "titre": "Réduction de la dette publique et rationalisation",
+      "detail": "Plan de lutte contre les déficits publics en rationalisant les dépenses de l'État.",
+      "source_texte": "Horizons / IFRAP"
+    },
+    {
+      "thematique": "Retraites & Travail",
+      "titre": "Maintien de la réforme et allongement possible",
+      "detail": "Conserver l'âge de départ à 64 ans voire l'allonger progressivement à 65 ans pour équilibrer le système.",
+      "source_texte": "Déclarations publiques Horizons"
+    },
+    {
+      "thematique": "Sécurité & Justice",
+      "titre": "Restauration de l'autorité et justice des mineurs",
+      "detail": "Durcissement des sanctions pour les mineurs récidivistes et refonte de l'ordonnance de 1945.",
+      "source_texte": "Propositions sécurité Horizons"
+    },
+    {
+      "thematique": "Jeunesse & Éducation",
+      "titre": "Développement des filières professionnelles",
+      "detail": "Renforcement massif de l'apprentissage et de l'enseignement professionnel en lien avec les entreprises.",
+      "source_texte": "Horizons Éducation"
+    },
+    {
+      "thematique": "Institutions & Démocratie",
+      "titre": "Renforcement du pouvoir des maires",
+      "detail": "Plus grande décentralisation et renforcement de la capacité d'action pénale des élus locaux.",
+      "source_texte": "Horizons"
     }
   ]
 }
